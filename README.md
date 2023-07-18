@@ -1,4 +1,4 @@
-![Netlify examples](netlify-badge-examples.png)
+![Netlify](netlify-badge-examples.png)
 
 # Netlify Feature Tour
 
